@@ -6,7 +6,7 @@ Motivated and dedicated developer with a passion for solving complex problems an
 
 ### 📫 How to reach me
 - 📧 Email: [me@oussamahomida.com](mailto:me@oussamahomida.com)
-- 🌐 Website/Portfolio: [https://www.oussamahomida.com]
+- 🌐 Website/Portfolio: https://www.oussamahomida.com
 
 ---
 
