@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi 👋, I'm Oussama H
 
-<!--
-**oussamaexe/oussamaexe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Motivated and dedicated developer with a passion for solving complex problems and creating efficient, scalable solutions. I enjoy building high-quality software and continuously learning new technologies to stay at the forefront of the field.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 How to reach me
+- 📧 Email: [me@oussamahomida.com](mailto:me@oussamahomida.com)
+- 🔗 LinkedIn: [Link to your profile]
+- 🌐 Website/Portfolio: [Link to your site]
+
+---
+
+### 🛠 Languages and Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  </p>
